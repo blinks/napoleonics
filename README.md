@@ -12,7 +12,7 @@ As Napoleon, bring Europe under your thumb. As the Coalition, keep Napoleon in c
 - Two decks of cards (one for Napoleon, one for the Coalition).
   - 2 sets of Move cards from 1 to 10
   - 2 sets of Battle / Regroup cards from 1 to 10
-  - Map cards: rivers, villages, cities.
+  - Map cards: rivers, villages, cities. Each has a fixed mark for the defender's position (so the defender's standee can remain on the strategic map), while attackers (and reinforcements) are placed on the card in their tactical position.
   - Leader cards?
 
 ## Setup
