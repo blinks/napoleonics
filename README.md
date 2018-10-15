@@ -23,3 +23,20 @@ Scenario-driven. For the first prototype, we'll work on the 1805 Ulm campaign le
 - Ru. General Kutusov and 100k in Russia.
 
 (How many cubes should this be? Perhaps 20k per cube?)
+
+Each player draws to their hand size, probably seven for the prototype. Players are also divided amongst the possible army groups, such that each player is on at most one side (France or the Coalition).
+
+## Play
+On your turn, play cards from your hand to your various army groups to take actions. Each army leader has a card limit that applies per-turn: you may not play more than that many cards in a single turn to that army.
+
+### Operations
+The numbers on cards are the _operations points_ (ops) that card provides. The more ops, the more of your army can act.
+
+- Movement: Every full multiple of your army size allows your army to (1) move to an adjacent region, (2) engage with an army in your current region, or (3) disengage. (Multiple movement cards can be combined.)
+- Battle: If engaged with an enemy army, play on their morale stack to force a morale test with a negative modifier equal to the least of the battle ops and your army size. (Each battle card must be used alone.)
+- Regroup: If not engaged with an enemy army, play on your own morale stack to make a morale test with no negative modifiers. Discard the result from your morale stack, oldest-card first.
+
+### Morale Tests
+Roll a d10 and add your army size. If the result is less than the number of cards in your morale stack, you take losses. If you roll a zero, you _always_ take a single loss.
+
+Losses (on a roll greater than zero) are based on the difference between your result and your cards. (Somehow.)
