@@ -42,4 +42,4 @@ The numbers on cards are the _operations points_ (ops) that card provides. The m
 ### Morale Tests
 Roll a d10 and add your army size. If the result is less than the number of cards in your morale stack, you take losses. If you roll a zero, you _always_ take a single loss.
 
-Losses (on a roll greater than zero) are based on the difference between your result and your cards. (Somehow.)
+Losses (on a roll greater than zero) are half your roll, rounded up.
