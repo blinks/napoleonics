@@ -33,6 +33,8 @@ On your turn, play cards from your hand to your various army groups to take acti
 The numbers on cards are the _operations points_ (ops) that card provides. The more ops, the more of your army can act.
 
 - Movement: Every full multiple of your army size allows your army to (1) move to an adjacent region, (2) engage with an army in your current region, or (3) disengage. (Multiple movement cards can be combined.)
+   - Engage: Make a morale test. If the defender already has a tactical map, place your standee on it. Otherwise, they may play a tactical map card. If they don't, you can. If you don't, use any card as a "field". Place your standee on that card based on your position.
+   - Disengage: Make a morale test. If you fail, check for a rout. (Perhaps the other side can play extra battle cards?)
 - Battle: If engaged with an enemy army, play on their morale stack to force a morale test with a negative modifier equal to the least of the battle ops and your army size. (Each battle card must be used alone.)
 - Regroup: If not engaged with an enemy army, play on your own morale stack to make a morale test with no negative modifiers. Discard the result from your morale stack, oldest-card first.
 
