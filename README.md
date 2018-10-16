@@ -40,6 +40,4 @@ The numbers on cards are the _operations points_ (ops) that card provides. The m
 - Regroup: If not engaged with an enemy army, play on your own morale stack to make a morale test with no negative modifiers. Discard the result from your morale stack, oldest-card first.
 
 ### Morale Tests
-Roll a d10 and add your army size. If the result is less than the number of cards in your morale stack, you take losses. If you roll a zero, you _always_ take a single loss.
-
-Losses (on a roll greater than zero) are half your roll, rounded up.
+Roll a d10 and add your army size. If the result is less than the number of cards in your morale stack, you take losses equal to half your result, rounded up. If you roll a natural zero, there's a random event instead.
