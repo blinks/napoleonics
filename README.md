@@ -7,12 +7,22 @@ As Napoleon, bring Europe under your thumb. As the Coalition, keep Napoleon in c
 ## Components
 - A 20-area map of Europe and the surrounding area.
 - Tokens (or cylinders) for National Will / Resources of each participant.
+  - Most nations spend will when they rest (because you're not making forward progress).
+  - Britain gains will when they rest, from colonial income. (France can attempt to change this.)
+  - 0 will drives your country out of the war.
+  - Britain can give their will (resources) to coalition members.
+  - Some threshold of will activates nations (Prussia / Russia / Austria / etc.) as part of the coalition.
 - A pile of chits for infantry / cavalry / artillery divisions.
+  - These are used for battle actions.
+  - They might also be strength points / manpower, but cubes might be better for that.
 - Two decks of cards (one for Napoleon, one for the Coalition).
-  - 1 to 6 ops, doubling as a die roll.
+  - 1 to 6 ops, doubling as a die roll. Weather icon on 2 (1 step worse) and 5 (1 step better).
   - Map cards: rivers, villages, cities. Each has a fixed mark for the defender's position (so the defender's standee can remain on the strategic map), while attackers (and reinforcements) are placed on the card in their tactical position.
   - Leader cards: used to split armies.
-  - Event cards: for various bits of chrome.
+    * Some leaders are generic.
+    * More leaders in the French deck, on lower ops cards.
+    * When a leader's army is routed, roll (draw a card) to see if they escape.
+  - Event cards: for various bits of chrome. (Louisiana Purchase, for instance.)
 
 ## Setup
 Scenario-driven. For the first prototype, we'll work on the 1805 Ulm campaign leading up to Austerlitz in the [War of the Third Coalition](https://en.wikipedia.org/wiki/War_of_the_Third_Coalition).
